@@ -1,0 +1,14 @@
+#container {
+  width: 45%;
+  height: auto;
+  background-color: rgb(243, 242, 242);
+
+}
+img {
+  height: 150px;
+  width: 200px;
+}
+
+h1 {
+  color: rgb(88, 88, 175);
+}
